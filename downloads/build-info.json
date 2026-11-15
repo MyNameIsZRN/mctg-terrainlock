@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "artifact": "mctg-terrainlock-1.1.0.jar",
+  "sha256": "cac9fd6f606bf33866a72f6e1294666ce7e42378fbeb8b8e6f79f9b156ddc231",
+  "compile_core_sha256": "656cca456baaa894c8153502d41b8df1c3583e840475f7e127d729772b463a9c",
+  "java_release": 21
+}
